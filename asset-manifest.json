@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flashcards-react/static/css/main.12659055.css",
+    "main.js": "/flashcards-react/static/js/main.f119009f.js",
+    "index.html": "/flashcards-react/index.html",
+    "main.12659055.css.map": "/flashcards-react/static/css/main.12659055.css.map",
+    "main.f119009f.js.map": "/flashcards-react/static/js/main.f119009f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12659055.css",
+    "static/js/main.f119009f.js"
+  ]
+}
